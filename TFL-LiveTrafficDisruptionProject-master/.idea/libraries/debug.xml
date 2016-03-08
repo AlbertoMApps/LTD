@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-5959ab042f8d905fa641672e9ade190df0367142.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-1640a9ae70669aaa5f2b74a4d98dd4064bd779e2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-23983f80c4ec4ce149600e261db9bdaf3eda0417.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-4c57c7a26fe168904a0bcd9a7d274ec44803fb0b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-da936c79351356f681f52aefac8cb6541edb2e13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-407a5b1472ba4fda6255dfe05eeca1dbfb7e08da.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-0203581ba3c9d4da5687fdd8b5647aa1977958a6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-7470063e452af965b7a156b0f3bb6bfef3fc67a3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-2eaa0c0d42bd5b8ca1828f2614801bb4df19be87.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-d14de20004c2df2a089382b0473fc02a03f3c008.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-65097d1cd0cdd0bc6ca1383c464cbd2f48c2c5db.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-1fdf2e62fe78fdf9730360db210e369592146b5d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-9d23f82c984d40b7a87092b4c1c79ef0b02c30dc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e4ab52194b67cd6ada14c6ba2b368d7bd9cf9cd1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-4bd5cab1212a27bff91f4aa4d92eeef77b28ef08.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-1b17576aec79b16077946c55623d2e19be8e4de4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-179f5ed141cb18b95f0a1b41c8de955896291207.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-d5ded6c07ff258e52efacfe075451a36f01773c0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-160531e4f890e5a3642ac483d681c901a0a7160a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-973e55736806e4ad399a96b70ef0334f9299ee34.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-89632a522afe58e99b8110245fbd15aa4d2e5180.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-228a0d50995942c024ca34dd07ed9fa5431d0235.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-48621de2c9b22f62015582f94f93ceb1cafc2c41.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-38fea861158cc5412f9ed9896488942722cf5a4e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-c3f97b68fc767667630593cd0ced322f1485d7eb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-092a23634fedb74248ecec835d571190d58077a3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-cff1f807cdc93a10a1ea9721cadf89b89efd5623.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-d18cfb90c2bb99f5d6f31c86d4e3bc601b03e1d4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LTD/app/build/intermediates/pre-dexed/debug/classes-530b2baf7eac31f9d05b3ee563067dc74c58c27c.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
